@@ -1,7 +1,7 @@
 <?php
 //php is a weakly typed language
 /*$num1 = (string) 10; //it will consider as a string.
-$num2 = "abc"; //it will consider this string as an integer.
+$num2 =(int) "abc"; //it will consider this string as an integer.
 
 var_dump($num1);
 echo "<br>";
